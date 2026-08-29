@@ -1,35 +1,32 @@
 # Uniplanck
 
-I build macOS productivity tools, AI-assisted local workflows, and creator/operator automation.
+**Native macOS tools · local-first productivity · AI-assisted workflows**
 
-## Current OSS
+I build focused open-source software for faster developer and operator workflows on macOS.
 
-### Board-Man
+[Website](https://uniplanck.com) · [ApexTerm](https://github.com/uniplanck/ApexTerm) · [Branchlight](https://github.com/uniplanck/Branchlight) · [Board-Man](https://github.com/uniplanck/boardman)
 
-[Board-Man](https://github.com/uniplanck/boardman) is an open-source macOS clipboard productivity utility derived from Clipy.
+## Featured open source
 
-It focuses on:
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[ApexTerm](https://github.com/uniplanck/ApexTerm)** | Native macOS terminal workspace with tabs, split panes, history, tmux, and optional agent workflows. | Swift · macOS |
+| **[Branchlight](https://github.com/uniplanck/Branchlight)** | Finder-native Git client with staging, interactive diffs, stash, blame, branches, and worktrees. | Swift · AppKit · SwiftUI |
+| **[Board-Man](https://github.com/uniplanck/boardman)** | Local-first clipboard workspace with history, templates, pins, search, usage signals, and image previews. | Swift · AppKit |
+| **[Obsidian Time Schedule Blocks](https://github.com/uniplanck/obsidian-time-schedule-blocks)** | Visual planned-vs-actual time blocks, child tasks, productivity totals, and reusable schedule sources. | JavaScript · Obsidian |
 
-- paste activity visibility
-- clipboard workflow feedback
-- local QA and release hardening
-- maintainer-friendly documentation
-- productivity tooling for paste-heavy work
+## What I build
 
-Latest release:
+- Native macOS developer and productivity tools
+- Local-first workflows that stay fast under heavy daily use
+- AI-assisted tooling where automation removes real operator work
+- Open-source software with practical contribution paths
 
-- [Board-Man v0.1.1](https://github.com/uniplanck/boardman/releases/tag/v0.1.1)
+## Contributing
 
-## Focus areas
-
-- macOS productivity utilities
-- clipboard-heavy workflow tooling
-- AI-assisted code review and documentation
-- local automation for creators and operators
-- release workflow hardening
+Issues and pull requests are welcome on the public projects above. Small, focused changes are easiest to review and merge.
 
 ## Links
 
 - Website: https://uniplanck.com
 - GitHub: https://github.com/uniplanck
-- Board-Man: https://github.com/uniplanck/boardman
