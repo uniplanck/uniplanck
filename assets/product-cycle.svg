@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="72" viewBox="0 0 680 72" role="img" aria-labelledby="title desc">
+  <title id="title">Building native macOS products</title>
+  <desc id="desc">A quiet rotating label cycling through ApexTerm, Branchlight, and Board-Man.</desc>
+  <style>
+    :root { color-scheme: light dark; }
+    .label { fill: #57606a; font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 0.16em; }
+    .product { fill: #24292f; font: 650 26px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; opacity: 0; animation: cycle 9s infinite; }
+    .apex { animation-delay: 0s; }
+    .branch { animation-delay: 3s; }
+    .board { animation-delay: 6s; }
+    @keyframes cycle {
+      0%, 27% { opacity: 1; }
+      33%, 100% { opacity: 0; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .label { fill: #8c959f; }
+      .product { fill: #f0f6fc; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .product { animation: none; opacity: 0; }
+      .apex { opacity: 1; }
+    }
+  </style>
+  <text class="label" x="2" y="21">BUILDING</text>
+  <text class="product apex" x="2" y="55">ApexTerm</text>
+  <text class="product branch" x="2" y="55">Branchlight</text>
+  <text class="product board" x="2" y="55">Board-Man</text>
+</svg>

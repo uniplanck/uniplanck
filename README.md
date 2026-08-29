@@ -1,32 +1,37 @@
 # Uniplanck
 
-**Native macOS tools · local-first productivity · AI-assisted workflows**
+### Native macOS tools for developers and power users.
 
-I build focused open-source software for faster developer and operator workflows on macOS.
+Terminal workflows · Finder-native Git · local-first productivity
 
-[Website](https://uniplanck.com) · [ApexTerm](https://github.com/uniplanck/ApexTerm) · [Branchlight](https://github.com/uniplanck/Branchlight) · [Board-Man](https://github.com/uniplanck/boardman)
+<p align="left">
+  <img src="assets/product-cycle.svg" width="680" alt="Building ApexTerm, Branchlight, and Board-Man" />
+</p>
 
-## Featured open source
+I design and ship focused macOS software in Swift. The public work here centers on three products built for fast, practical daily workflows.
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[ApexTerm](https://github.com/uniplanck/ApexTerm)** | Native macOS terminal workspace with tabs, split panes, history, tmux, and optional agent workflows. | Swift · macOS |
-| **[Branchlight](https://github.com/uniplanck/Branchlight)** | Finder-native Git client with staging, interactive diffs, stash, blame, branches, and worktrees. | Swift · AppKit · SwiftUI |
-| **[Board-Man](https://github.com/uniplanck/boardman)** | Local-first clipboard workspace with history, templates, pins, search, usage signals, and image previews. | Swift · AppKit |
-| **[Obsidian Time Schedule Blocks](https://github.com/uniplanck/obsidian-time-schedule-blocks)** | Visual planned-vs-actual time blocks, child tasks, productivity totals, and reusable schedule sources. | JavaScript · Obsidian |
+## Featured
 
-## What I build
+### [ApexTerm](https://github.com/uniplanck/ApexTerm)
 
-- Native macOS developer and productivity tools
-- Local-first workflows that stay fast under heavy daily use
-- AI-assisted tooling where automation removes real operator work
-- Open-source software with practical contribution paths
+**Native macOS terminal workspace.** Fast tab and nested-pane navigation, command transcripts, Universal Search, Command Timeline, tmux sessions, remote-host profiles, configurable shortcuts, and optional agent-assisted workflows.
 
-## Contributing
+`Swift` · `macOS` · `Terminal` · `tmux`
 
-Issues and pull requests are welcome on the public projects above. Small, focused changes are easiest to review and merge.
+### [Branchlight](https://github.com/uniplanck/Branchlight)
 
-## Links
+**Git belongs in Finder.** Finder status badges and context actions backed by a native Git client for staging, structured diffs, selected-line staging, history, blame, stashes, branches, worktrees, and remote operations.
 
-- Website: https://uniplanck.com
-- GitHub: https://github.com/uniplanck
+`Swift` · `AppKit` · `SwiftUI` · `Finder Sync`
+
+### [Board-Man](https://github.com/uniplanck/boardman)
+
+**Local-first clipboard and text workflow for macOS.** Clipboard history, reusable Templates, pins, search, image previews, usage signals, and keyboard-driven pasting, with working data kept on the Mac.
+
+`Swift` · `AppKit` · `Local-first`
+
+## Open source
+
+ApexTerm, Branchlight, and Board-Man are public projects. Issues and pull requests are welcome; focused changes with a clear problem statement are easiest to review.
+
+**[uniplanck.com](https://uniplanck.com)** · [ApexTerm](https://github.com/uniplanck/ApexTerm) · [Branchlight](https://github.com/uniplanck/Branchlight) · [Board-Man](https://github.com/uniplanck/boardman)
