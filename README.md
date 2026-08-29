@@ -5,6 +5,10 @@
 Terminal workflows · Finder-native Git · local-first productivity
 
 <p align="left">
+  <img src="assets/studio-hero.svg" width="920" alt="Uniplanck macOS product studio featuring ApexTerm, Branchlight, and Board-Man" />
+</p>
+
+<p align="left">
   <img src="assets/product-cycle.svg" width="680" alt="Building ApexTerm, Branchlight, and Board-Man" />
 </p>
 
@@ -29,6 +33,10 @@ I design and ship focused macOS software in Swift. The public work here centers 
 **Local-first clipboard and text workflow for macOS.** Clipboard history, reusable Templates, pins, search, image previews, usage signals, and keyboard-driven pasting, with working data kept on the Mac.
 
 `Swift` · `AppKit` · `Local-first`
+
+<p align="left">
+  <img src="assets/studio-strip.svg" width="920" alt="Native macOS, Developer Tools, Local-first, Open source" />
+</p>
 
 ## Open source
 
