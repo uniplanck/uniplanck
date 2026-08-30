@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420" role="img" aria-labelledby="title desc">
+<title id="title">Nao Yamao — Uniplanck face terminal</title>
+<desc id="desc">An animated terminal interface with an ASCII portrait derived from Nao Yamao's headshot and commands describing Uniplanck's native macOS tools.</desc>
+<defs>
+  <clipPath id="portrait"><rect x="22" y="52" width="308" height="346" rx="18"/></clipPath>
+  <clipPath id="terminal"><rect x="346" y="52" width="552" height="346" rx="18"/></clipPath>
+</defs>
+<style>
+:root{color-scheme:light dark}.surface{fill:#f6f8fa;stroke:#d0d7de}.pane{fill:#fff;stroke:#d8dee4}.chrome{fill:#57606a;font:600 10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:1.5px}.red{fill:#ff5f57}.amber{fill:#febc2e}.green{fill:#28c840}.grid{stroke:#d8dee4;opacity:.32}.ascii{fill:#0969da;opacity:.72;font:600 6.7px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:.15px}.meta{fill:#656d76;font:600 9px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:1px}.prompt{fill:#0969da;font:600 12px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.out{fill:#1f2328;font:600 15px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.strong{fill:#1f2328;font:700 21px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.sub{fill:#57606a;font:500 13px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.prod{fill:#1f2328;font:700 13px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.box{fill:#f6f8fa;stroke:#d0d7de}.status{fill:#1a7f37}.scan{fill:#0969da;opacity:.055;animation:scan 7s ease-in-out infinite}.cursor{fill:#0969da;animation:blink 1.05s steps(1,end) infinite}.reveal{opacity:1;animation:redraw 11s ease-in-out infinite}.r2{animation-delay:.6s}.r3{animation-delay:1.2s}.r4{animation-delay:1.8s}.r5{animation-delay:2.4s}.r6{animation-delay:3s}.r7{animation-delay:3.6s}.r8{animation-delay:4.2s}.r9{animation-delay:4.8s}
+@keyframes redraw{0%,68%{opacity:1;transform:translateY(0)}74%{opacity:.22;transform:translateY(1px)}81%,100%{opacity:1;transform:translateY(0)}}@keyframes blink{0%,48%{opacity:1}49%,100%{opacity:.14}}@keyframes scan{0%,100%{transform:translateY(-18px)}50%{transform:translateY(326px)}}
+@media(prefers-color-scheme:dark){.surface{fill:#0d1117;stroke:#30363d}.pane{fill:#0b0f14;stroke:#30363d}.chrome,.meta,.sub{fill:#8c959f}.grid{stroke:#30363d;opacity:.55}.ascii{fill:#58a6ff;opacity:.82}.scan{fill:#58a6ff;opacity:.07}.prompt,.cursor{fill:#58a6ff}.out,.strong,.prod{fill:#f0f6fc}.box{fill:#161b22;stroke:#30363d}.status{fill:#3fb950}}
+@media(prefers-reduced-motion:reduce){.scan,.cursor,.reveal{animation:none!important}.scan{display:none}.cursor,.reveal{opacity:1;transform:none}}
+</style>
+<rect class="surface" x="1" y="1" width="918" height="418" rx="24"/>
+<circle class="red" cx="24" cy="24" r="4"/><circle class="amber" cx="38" cy="24" r="4"/><circle class="green" cx="52" cy="24" r="4"/>
+<text class="chrome" x="74" y="28">UNIPLANCK / FACE TERMINAL</text><text class="meta" x="752" y="28">LOCAL-FIRST / NATIVE</text>
+<rect class="pane" x="22" y="52" width="308" height="346" rx="18"/>
+<g clip-path="url(#portrait)">
+<path class="grid" d="M42 78H310M42 122H310M42 166H310M42 210H310M42 254H310M42 298H310M42 342H310M82 68V390M128 68V390M174 68V390M220 68V390M266 68V390" fill="none"/>
+<g transform="translate(30 70)">
+<text class="ascii" x="0" y="14" xml:space="preserve">          .:----..:::.    ........</text>
+<text class="ascii" x="0" y="27" xml:space="preserve">        :=*#%%@@%#####*+-.  . ....</text>
+<text class="ascii" x="0" y="40" xml:space="preserve">      :+#%%%@@@@@@@@@%@@@%=. .....</text>
+<text class="ascii" x="0" y="53" xml:space="preserve">    .+#%%%%@@@@@@@@@@%%@@@@#: ....</text>
+<text class="ascii" x="0" y="66" xml:space="preserve">   :*##%@@@@%%@%####%@@@@@@@%- ...</text>
+<text class="ascii" x="0" y="79" xml:space="preserve">  :*##%@@%*++*+==---=+#%%%@@@@- .</text>
+<text class="ascii" x="0" y="92" xml:space="preserve"> :####@@%=-==---::::--=+%@@@@@%: .</text>
+<text class="ascii" x="0" y="105" xml:space="preserve"> +%##%@@*===-::::::-==++#@@@@@@* .</text>
+<text class="ascii" x="0" y="118" xml:space="preserve"> -*%%%@%*++++=-:::=+++++*%@@@@@#:</text>
+<text class="ascii" x="0" y="131" xml:space="preserve"> :#@%%@*---=+=-::--=+++++*@@@@@*.</text>
+<text class="ascii" x="0" y="144" xml:space="preserve">  =#%@%-:--=+-:.:=--+=====*@@@#=:</text>
+<text class="ascii" x="0" y="157" xml:space="preserve">   -*%%:.  .. ...-=::::--=*@%=.</text>
+<text class="ascii" x="0" y="170" xml:space="preserve">     =+:.. ..::-:=+=::--==**:  .</text>
+<text class="ascii" x="0" y="183" xml:space="preserve">      .-......---===---===+: ....</text>
+<text class="ascii" x="0" y="196" xml:space="preserve">       ::.:.::--==++=-====: .....</text>
+<text class="ascii" x="0" y="209" xml:space="preserve">         .:::-===++*+===+- .......</text>
+<text class="ascii" x="0" y="222" xml:space="preserve">          ::::::---===++*-  ......</text>
+<text class="ascii" x="0" y="235" xml:space="preserve">          .::::::--=+*****--.    .</text>
+<text class="ascii" x="0" y="248" xml:space="preserve">        :-.:::-=++******+**#%#+-:.</text>
+<text class="ascii" x="0" y="261" xml:space="preserve">     :+*%# .:::-==+++++++++%@@@@@#</text>
+</g>
+<rect class="scan" x="28" y="62" width="296" height="18" rx="9"/>
+</g>
+<text class="meta" x="42" y="382">ASCII PORTRAIT / NAO</text><circle class="status" cx="302" cy="378" r="3"/>
+<rect class="pane" x="346" y="52" width="552" height="346" rx="18"/>
+<g clip-path="url(#terminal)">
+<g class="reveal"><text class="prompt" x="372" y="84">nao@uniplanck:~$ whoami</text></g><g class="reveal r2"><text class="strong" x="372" y="112">Nao Yamao</text></g>
+<g class="reveal r3"><text class="prompt" x="372" y="148">nao@uniplanck:~$ focus</text></g><g class="reveal r4"><text class="out" x="372" y="176">Native macOS developer tools</text><text class="sub" x="372" y="197">Local-first productivity software</text></g>
+<g class="reveal r5"><text class="prompt" x="372" y="235">nao@uniplanck:~$ ls products</text></g><g class="reveal r6"><rect class="box" x="372" y="250" width="126" height="34" rx="10"/><text class="prod" x="389" y="272">ApexTerm</text><rect class="box" x="508" y="250" width="138" height="34" rx="10"/><text class="prod" x="526" y="272">Branchlight</text><rect class="box" x="656" y="250" width="126" height="34" rx="10"/><text class="prod" x="674" y="272">Board-Man</text></g>
+<g class="reveal r7"><text class="prompt" x="372" y="318">nao@uniplanck:~$ cat now.txt</text></g><g class="reveal r8"><text class="sub" x="372" y="346">Shipping tools for developers and power users.</text></g><g class="reveal r9"><rect class="cursor" x="372" y="365" width="8" height="16" rx="1"/></g>
+</g>
+</svg>
