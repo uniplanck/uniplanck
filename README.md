@@ -1,18 +1,27 @@
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/nao-terminal-hero-mobile.svg">
+  <img src="assets/nao-terminal-hero.svg" width="920" alt="Nao Yamao in a terminal-style ASCII portrait with Uniplanck product commands" />
+</picture>
+
 # Uniplanck
 
 ### Native macOS tools for developers and power users.
 
 Terminal workflows · Finder-native Git · local-first productivity
 
-<p align="left">
-  <img src="assets/studio-hero.svg" width="920" alt="Uniplanck macOS product studio featuring ApexTerm, Branchlight, and Board-Man" />
-</p>
-
-<p align="left">
-  <img src="assets/product-cycle.svg" width="680" alt="Building ApexTerm, Branchlight, and Board-Man" />
-</p>
-
 I design and ship focused macOS software in Swift. The public work here centers on three products built for fast, practical daily workflows.
+
+<p align="center">
+  <img src="assets/studio-hero.svg" width="860" alt="Uniplanck macOS product studio featuring ApexTerm, Branchlight, and Board-Man" />
+</p>
+
+## Now shipping
+
+<p align="left">
+  <img src="assets/product-cycle.svg" width="600" alt="Building ApexTerm, Branchlight, and Board-Man" />
+</p>
+
+Current focus: tightening native workflows across the terminal, Finder, and clipboard without turning the Mac into a web app wearing a fake moustache.
 
 ## Featured
 
@@ -34,8 +43,16 @@ I design and ship focused macOS software in Swift. The public work here centers 
 
 `Swift` · `AppKit` · `Local-first`
 
-<p align="left">
-  <img src="assets/studio-strip.svg" width="920" alt="Native macOS, Developer Tools, Local-first, Open source" />
+## About
+
+<p align="center">
+  <img src="assets/about-nao-visual.svg" width="860" alt="Building Uniplanck — a terminal-style visual derived from Nao Yamao's urban portrait" />
+</p>
+
+I build small native products around repetitive friction: commands that take too many windows, Git actions that should live beside files, and text workflows that should stay local.
+
+<p align="center">
+  <img src="assets/studio-strip.svg" width="860" alt="Native macOS, Developer Tools, Local-first, Open source" />
 </p>
 
 ## Open source
