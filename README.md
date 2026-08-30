@@ -1,7 +1,9 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/nao-terminal-hero-mobile.svg">
-  <img src="assets/nao-terminal-hero.svg" width="920" alt="Nao Yamao — Uniplanck Face Terminal with native macOS product commands" />
-</picture>
+<a href="#featured">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/nao-terminal-hero-mobile.svg">
+    <img src="assets/nao-terminal-hero.svg" width="920" alt="Nao Yamao — Uniplanck Face Terminal with native macOS product commands" />
+  </picture>
+</a>
 
 # Uniplanck
 
