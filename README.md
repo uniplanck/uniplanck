@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/nao-terminal-hero-mobile.svg">
-  <img src="assets/nao-terminal-hero.svg" width="920" alt="Nao Yamao in a terminal-style ASCII portrait with Uniplanck product commands" />
+  <img src="assets/nao-terminal-hero.svg" width="920" alt="Nao Yamao — Uniplanck Face Terminal with native macOS product commands" />
 </picture>
 
 # Uniplanck
@@ -45,9 +45,7 @@ Current focus: tightening native workflows across the terminal, Finder, and clip
 
 ## About
 
-<p align="center">
-  <img src="assets/about-nao-visual.svg" width="860" alt="Building Uniplanck — a terminal-style visual derived from Nao Yamao's urban portrait" />
-</p>
+**Building Uniplanck. Designing native macOS tools.**
 
 I build small native products around repetitive friction: commands that take too many windows, Git actions that should live beside files, and text workflows that should stay local.
 
