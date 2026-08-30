@@ -58,3 +58,9 @@ I build small native products around repetitive friction: commands that take too
 ApexTerm, Branchlight, and Board-Man are public projects. Issues and pull requests are welcome; focused changes with a clear problem statement are easiest to review.
 
 **[uniplanck.com](https://uniplanck.com)** · [ApexTerm](https://github.com/uniplanck/ApexTerm) · [Branchlight](https://github.com/uniplanck/Branchlight) · [Board-Man](https://github.com/uniplanck/boardman)
+
+<table>
+  <tr>
+    <td><sub><code>STATUS</code> · <code>NATIVE macOS</code> · <code>DEVELOPER TOOLS</code> · <code>LOCAL-FIRST</code><br><code>BUILT BY NAO YAMAO</code> · <code>APEXTERM</code> / <code>BRANCHLIGHT</code> / <code>BOARD-MAN</code></sub></td>
+  </tr>
+</table>
