@@ -21,7 +21,7 @@ I design and ship focused macOS software in Swift. The public work here centers 
   <img src="assets/product-cycle.svg" width="600" alt="Building ApexTerm, Branchlight, and Board-Man" />
 </p>
 
-Current focus: tightening native workflows across the terminal, Finder, and clipboard without turning the Mac into a web app wearing a fake moustache.
+Current focus: tightening native workflows across the terminal, Finder, and clipboard while keeping the software fast, local, and native.
 
 ## Featured
 
