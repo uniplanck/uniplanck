@@ -14,13 +14,17 @@ Terminal workflows · Finder-native Git · local-first productivity
 I design and ship focused macOS software in Swift. The public work here centers on three products built for fast, practical daily workflows.
 
 <p align="center">
-  <img src="assets/studio-hero.svg" width="860" alt="Uniplanck macOS product studio featuring ApexTerm, Branchlight, and Board-Man" />
+  <a href="#featured">
+    <img src="assets/studio-hero.svg" width="860" alt="Uniplanck macOS product studio featuring ApexTerm, Branchlight, and Board-Man" />
+  </a>
 </p>
 
 ## Now shipping
 
 <p align="left">
-  <img src="assets/product-cycle.svg" width="600" alt="Building ApexTerm, Branchlight, and Board-Man" />
+  <a href="#featured">
+    <img src="assets/product-cycle.svg" width="600" alt="Building ApexTerm, Branchlight, and Board-Man" />
+  </a>
 </p>
 
 Current focus: tightening native workflows across the terminal, Finder, and clipboard while keeping the software fast, local, and native.
@@ -52,7 +56,9 @@ Current focus: tightening native workflows across the terminal, Finder, and clip
 I build small native products around repetitive friction: commands that take too many windows, Git actions that should live beside files, and text workflows that should stay local.
 
 <p align="center">
-  <img src="assets/studio-strip.svg" width="860" alt="Native macOS, Developer Tools, Local-first, Open source" />
+  <a href="#open-source">
+    <img src="assets/studio-strip.svg" width="860" alt="Native macOS, Developer Tools, Local-first, Open source" />
+  </a>
 </p>
 
 ## Open source
